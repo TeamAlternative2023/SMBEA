@@ -1,4 +1,4 @@
-# SMBEA
+# Super Mario Bros. Extreme Adventure
 SMB: Extreme Adventure. A demo based on NewerSMBW Engine
 # Join Our Discord!
 in our GitHub profile you can find the Discord Server link for stay updated on the Relase Progress, if you are not finding the link, 
